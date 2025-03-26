@@ -2,7 +2,6 @@
 
 - 🏫 I'm currently pursuing a Bachelor of Applied Science in Electrical Engineering at the University of Toronto
 - 🔭 I’m currently working on ML and hardware projects
-- 🌱 I’m currently learning Next.js
 
 <!--
 **ryanalumkal/ryanalumkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
