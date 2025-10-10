@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ryan Neil Alumkal</h1>
 <!-- <h3 align="center">I'm an Electrical Engineering student at the University of Toronto.</h3> -->
 
-🏫 I'm currently pursuing a Bachelor of Applied Science in Electrical Engineering at the University of Toronto
+🏫 I'm currently a 3rd year Electrical Engineering student at the University of Toronto
 
-🔭 I’m currently working on **hardware and machine learning projects.**
+🔭 I’m currently working on Hardware and Machine Learning projects
+
+🌱 I'm currently learning about Computer Architecture 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanalumkal) 
