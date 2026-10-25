@@ -1,6 +1,6 @@
 # Ryan Neil Alumkal
 
-- Current SWE Intern @ AMD working on GPU Diagnostics and Hardware Validation
+- Current SWE Intern @ AMD working on GPU Diagnostics
 - Interested in Computer Architecture, ASIC Design, and Machine Learning
 
 Website: [https://ryanalumkal.github.io/](https://ryanalumkal.github.io)
